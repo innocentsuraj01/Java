@@ -19,6 +19,6 @@ public class greater {
             {
                 System.out.println(num3 + " is greater");
             }
-           
+        gra.close();   
     }
 }
