@@ -1,4 +1,3 @@
-package Java;
 public class SuperKeyword {
     public static void main(String[] args) {
         Horse h1 = new Horse();
