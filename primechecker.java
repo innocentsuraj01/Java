@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class PrimeChecker{
+public class primechecker{
 
     public static boolean isPrime(int num) {
         if (num <= 1) return false;
