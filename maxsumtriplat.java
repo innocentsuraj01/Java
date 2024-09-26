@@ -1,4 +1,3 @@
-package Java;
 public class maxsumtriplat {
     public static void main(String[] args) {
        int[] arr = (11,2,13,4,5);
